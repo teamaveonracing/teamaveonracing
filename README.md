@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, We're Team Aveon Racing</h1>
+<h1 align="center">Hi 👋 &nbsp;, We're Team Aveon Racing</h1>
 <h3 align="center">A passionate non-profit E-ATV racing organization from Birla Institute of Technology|Mesra|Ranchi #BAJA_SAE</h3>
 
-- 📫 Mail us on **teamaveonracing@bitmesra.ac.in**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teamaveonracing" alt="teamaveonracing" /></a> </p>
 ### 👨🏻‍💻 &nbsp;About Us
@@ -10,8 +9,8 @@
 🎓 &nbsp;We're currently a team of 25 students studying in various feilds of Engg; United by one motive !\
 🌱 &nbsp;We're on track for learning more and more about Self-driven e-ATV, Iot automations, Wireless communications within a car .\
 ✍️ &nbsp;In our free time, We pursue Car Design Mechanics and Blog Writing as hobbies/side hustles.\
-📫 &nbsp;Feel free to reach out to us for Sponsorship/business oppurtunities, or just for some interesting discussion on **teamaveonracing@bitmesra.ac.in** .\
-
+📫 &nbsp;Feel free to reach out to us for Sponsorship/business oppurtunities, or just for some interesting discussion on **teamaveonracing@bitmesra.ac.in** . \
+📄 &nbsp; Check out our brochure ![Team AVEON Racing sponsorhip brochure (2020-2021)](Team AVEON Racing sponsorhip brochure (2020-2021).pdf)
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### Blogs posts
