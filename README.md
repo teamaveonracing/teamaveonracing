@@ -10,7 +10,7 @@
 🌱 &nbsp;We're on track for learning more and more about Self-driven e-ATV, Iot automations, Wireless communications within a car .\
 ✍️ &nbsp;In our free time, We pursue Car Design Mechanics and Blog Writing as hobbies/side hustles.\
 📫 &nbsp;Feel free to reach out to us for Sponsorship/business oppurtunities, or just for some interesting discussion on **teamaveonracing@bitmesra.ac.in** . \
-📄 &nbsp; Check out our brochure ![Team AVEON Racing sponsorhip brochure (2020-2021)](Team AVEON Racing sponsorhip brochure (2020-2021).pdf)
+📄 &nbsp; Check out our ![brochure](https://github.com/teamaveonracing/teamaveonracing/blob/main/Team%20AVEON%20Racing%20sponsorhip%20brochure%20(2020-2021).pdf)
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### Blogs posts
