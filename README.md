@@ -2,7 +2,7 @@
 <h3 align="center">A passionate non-profit E-ATV racing organization from Birla Institute of Technology|Mesra|Ranchi #BAJA_SAE</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teamaveonracing" alt="teamaveonracing" width="300" height="50" align = "center"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teamaveonracing" alt="teamaveonracing" align = "center"/></a> </p>
 
 ### 👨🏻‍💻 &nbsp;About Us
 
