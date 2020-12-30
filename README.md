@@ -1,3 +1,4 @@
+<img src="Hnet.com-image.gif" align="center" width="900" height="495"/>
 <h1 align="center">Hi 👋 &nbsp;, We're Team Aveon Racing</h1>
 <h3 align="center">A passionate non-profit E-ATV racing organization from Birla Institute of Technology|Mesra|Ranchi #BAJA_SAE</h3>
 
